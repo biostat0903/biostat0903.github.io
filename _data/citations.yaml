@@ -1,66 +1,5 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
 - id: doi:10.1016/j.ajhg.2020.03.013
   title: Accurate and Scalable Construction of Polygenic Scores in Large Biobank Data
     Sets
@@ -82,6 +21,8 @@
   - type: source
     link: https://github.com/greenelab/scihub
     text: Analyses source
+  tags:
+  - knowledge graphs
 - id: doi:10.3390/cells8101161
   title: An Efficient and Flexible Method for Deconvoluting Bulk RNA-Seq Data with
     Single-Cell RNA-Seq Data
@@ -101,3 +42,278 @@
   - type: source
     link: https://github.com/greenelab/scihub-manuscript
     text: Manuscript source
+- id: doi:10.3389/fgene.2021.784775
+  title: Construction and Clinical Translation of Causal Pan-Cancer Gene Score Across
+    Cancer Types
+  authors:
+  - Shiyue Tao
+  - Xiangyu Ye
+  - Lulu Pan
+  - Minghan Fu
+  - Peng Huang
+  - Zhihang Peng
+  - Sheng Yang
+  publisher: Frontiers in Genetics
+  date: '2021-12-23'
+  link: https://doi.org/gpdb5x
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1111/hepr.13728
+  title: "Metabolic dysfunction\u2010associated fatty liver disease and liver fibrosis:\
+    \ Prevalence and associated factors in the middle\u2010aged and older US population"
+  authors:
+  - Sheng Yang
+  - Jiawen Cheng
+  - Rui Zhang
+  - Huiwen Sun
+  - Hui Zhang
+  - Sali Lyu
+  - Weiwei Duan
+  publisher: Hepatology Research
+  date: '2021-11-21'
+  link: https://doi.org/gng8gh
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1111/liv.14976
+  title: "The risk of hepatitis C virus recurrence in hepatitis C virus\u2010infected\
+    \ patients treated with direct\u2010acting antivirals after achieving a sustained\
+    \ virological response: A comprehensive analysis"
+  authors:
+  - Peng Huang
+  - Yan Wang
+  - Ming Yue
+  - Zhijun Ge
+  - Xueshan Xia
+  - Andre J. Jeyarajan
+  - Jacinta A. Holmes
+  - Rongbin Yu
+  - Chuanwu Zhu
+  - Sheng Yang
+  - Wenyu Lin
+  - Raymond T. Chung
+  publisher: Liver International
+  date: '2021-06-16'
+  link: https://doi.org/gpdb52
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.3389/fgene.2021.752057
+  title: 'Editorial: Integrative Analysis of Genome-Wide Association Studies and Single-Cell
+    Sequencing Studies'
+  authors:
+  - Shiquan Sun
+  - Sheng Yang
+  publisher: Frontiers in Genetics
+  date: '2021-08-27'
+  link: https://doi.org/gpdb53
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.3389/fgene.2021.763259
+  title: 'The Causal Effects of Insomnia on Bipolar Disorder, Depression, and Schizophrenia:
+    A Two-Sample Mendelian Randomization Study'
+  authors:
+  - Peng Huang
+  - Yixin Zou
+  - Xingyu Zhang
+  - Xiangyu Ye
+  - Yidi Wang
+  - Rongbin Yu
+  - Sheng Yang
+  publisher: Frontiers in Genetics
+  date: '2021-10-11'
+  link: https://doi.org/gpdb54
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.3389/fmed.2021.743406
+  title: Genetic Mutations in TNFSF11 Were Associated With the Chronicity of Hepatitis
+    C Among Chinese Han Population
+  authors:
+  - Peng Huang
+  - Yu-Qing Hou
+  - Jing-Jing Wu
+  - Yi-Di Wang
+  - Xiang-Yu Ye
+  - Feng Zang
+  - Rong-Bin Yu
+  - Sheng Yang
+  publisher: Frontiers in Medicine
+  date: '2021-10-01'
+  link: https://doi.org/gpdb6h
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.3389/fgene.2021.791778
+  title: 'The Causal Effects of Primary Biliary Cholangitis on Thyroid Dysfunction:
+    A Two-Sample Mendelian Randomization Study'
+  authors:
+  - Peng Huang
+  - Yuqing Hou
+  - Yixin Zou
+  - Xiangyu Ye
+  - Rongbin Yu
+  - Sheng Yang
+  publisher: Frontiers in Genetics
+  date: '2021-12-10'
+  link: https://doi.org/gpdb6k
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1186/s12863-019-0739-7
+  title: Identifying and exploiting gene-pathway interactions from RNA-seq data for
+    binary phenotype
+  authors:
+  - Fang Shao
+  - Yaqi Wang
+  - Yang Zhao
+  - Sheng Yang
+  publisher: BMC Genetics
+  date: '2019-03-19'
+  link: https://doi.org/gpdb6m
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.3892/ol.2020.11564
+  title: Leveraging methylation to identify the potential causal genes associated
+    with survival in lung adenocarcinoma and lung squamous cell carcinoma
+  authors:
+  - Lu Liu
+  - Ping Zeng
+  - Sheng Yang
+  - Zhongshang Yuan
+  publisher: Oncology Letters
+  date: '2020-04-22'
+  link: https://doi.org/gpdb6r
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1186/s12911-019-1006-6
+  title: Use of natural language processing to improve predictive models for imaging
+    utilization in children presenting to the emergency department
+  authors:
+  - Xingyu Zhang
+  - M. Fernanda Bellolio
+  - Pau Medrano-Gracia
+  - Konrad Werys
+  - Sheng Yang
+  - Prashant Mahajan
+  publisher: BMC Medical Informatics and Decision Making
+  date: '2019-12-01'
+  link: https://doi.org/gpdb6z
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1111/1759-7714.13163
+  title: "Decoding tumor mutation burden and driver mutations in early stage lung\
+    \ adenocarcinoma using CT\u2010based radiomics signature"
+  authors:
+  - Xiaoxiao Wang
+  - Cheng Kong
+  - Weizhang Xu
+  - Sheng Yang
+  - Dan Shi
+  - Jingyuan Zhang
+  - Mulong Du
+  - Siwei Wang
+  - Yongkang Bai
+  - Te Zhang
+  - Zeng Chen
+  - Zhifei Ma
+  - Jie Wang
+  - Gaochao Dong
+  - Mengting Sun
+  - Rong Yin
+  - Feng Chen
+  publisher: Thoracic Cancer
+  date: '2019-08-14'
+  link: https://doi.org/gpdb63
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1089/vim.2019.0109
+  title: Association of rs2111485 and rs1990760 Polymorphisms of Interferon Induced
+    with Helicase C Domain 1 Gene with Hepatitis C Virus Clearance in Chinese Han
+    Population
+  authors:
+  - Wei Jiang
+  - Lingyun Zhuo
+  - Xinyu Wu
+  - Jia Shen
+  - Xiangyu Ye
+  - Yan Wang
+  - Xueshan Xia
+  - Hongbo Chen
+  - Rongbin Yu
+  - Sheng Yang
+  - Peng Huang
+  publisher: Viral Immunology
+  date: '2019-10-01'
+  link: https://doi.org/gpdb64
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1017/S0950268819000827
+  title: Genetic variants in RIG-I-like receptor influences HCV clearance in Chinese
+    Han population
+  authors:
+  - Xinyu Wu
+  - Feng Zang
+  - Mei Liu
+  - Lingyun Zhuo
+  - Jingjing Wu
+  - Xueshan Xia
+  - Yue Feng
+  - Rongbin Yu
+  - Peng Huang
+  - Sheng Yang
+  publisher: Epidemiology and Infection
+  date: '2019-01-01'
+  link: https://doi.org/gpdb65
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.7717/peerj.3797
+  title: Variance component testing for identifying differentially expressed genes
+    in RNA-seq data
+  authors:
+  - Sheng Yang
+  - Fang Shao
+  - Weiwei Duan
+  - Yang Zhao
+  - Feng Chen
+  publisher: PeerJ
+  date: '2017-09-08'
+  link: https://doi.org/gpdb66
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1155/2015/178572
+  title: A Systematic Evaluation of Feature Selection and Classification Algorithms
+    Using Simulated and Real miRNA Sequencing Data
+  authors:
+  - Sheng Yang
+  - Li Guo
+  - Fang Shao
+  - Yang Zhao
+  - Feng Chen
+  publisher: Computational and Mathematical Methods in Medicine
+  date: '2015-01-01'
+  link: https://doi.org/gb5wzr
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.3892/mmr.2015.3414
+  title: Deregulated microRNA species in the plasma and placenta of patients with
+    preeclampsia
+  authors:
+  - SHENG YANG
+  - HAILING LI
+  - QINYU GE
+  - LI GUO
+  - FENG CHEN
+  publisher: Molecular Medicine Reports
+  date: '2012-03-04'
+  link: https://doi.org/f7gq5z
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1016/j.gene.2014.06.010
+  title: Reconstructing the coding and non-coding RNA regulatory networks of miRNAs
+    and mRNAs in breast cancer
+  authors:
+  - Sheng Yang
+  - Hui Zhang
+  - Li Guo
+  - Yang Zhao
+  - Feng Chen
+  publisher: Gene
+  date: '2014-09-01'
+  link: https://doi.org/f6ct8v
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1007/s11033-012-2450-x
+  title: "Genome-wide analysis of aberrantly expressed circulating miRNAs in patients\
+    \ with coal workers\u2019 pneumoconiosis"
+  authors:
+  - Li Guo
+  - Xiaoming Ji
+  - Sheng Yang
+  - Zhiguo Hou
+  - Chen Luo
+  - Jingjing Fan
+  - Chunhui Ni
+  - Feng Chen
+  publisher: Molecular Biology Reports
+  date: '2012-12-29'
+  link: https://doi.org/f4rdz2
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
