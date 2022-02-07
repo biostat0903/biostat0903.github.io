@@ -6,11 +6,6 @@
 @import "mixins";
 
 footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  gap: 20px;
   padding: 40px;
   color: $white;
   background: $gray-800;
@@ -22,16 +17,10 @@ footer {
   }
 
   .footer_row {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    @include flex-center;
     flex-wrap: wrap;
-    gap: 10px;
-    line-height: $spacing + 0.3;
-
-    .link {
-      margin: 0;
-    }
+    margin: 20px 0;
+    @include trim-v-margins;
 
     &:hover .link {
       opacity: 0.25;
@@ -44,5 +33,6 @@ footer {
 
   a {
     color: currentColor;
+    text-decoration: none;
   }
 }

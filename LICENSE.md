@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2020, Greene Laboratory
+Copyright (c) 2021, Way Laboratory
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

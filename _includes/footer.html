@@ -12,13 +12,6 @@
 {%- endif -%}
 
 <footer {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
-
-  <!--
-  <div class="footer_row">
-    Extra details like contact info or address
-  </div>
-  -->
-
   <div class="footer_row">
     {%- for entry in site.links -%}
       {%- assign key = entry[0] -%}
@@ -26,13 +19,9 @@
       {%- include link.html type=key icon="" tooltip="" link=value -%}
     {%- endfor -%}
   </div>
-
+  <!--
   <div class="footer_row">
-    <span>
-      &copy; {{ site.time | date: '%Y' }} {{ site.title }}
-      &nbsp; | &nbsp;
-      Built with <a href="https://github.com/greenelab/lab-website-template">Lab Website Template</a>
-    </span>
+    &copy; {{ site.time | date: '%Y' }} {{ site.title }}
   </div>
-
+  -->
 </footer>

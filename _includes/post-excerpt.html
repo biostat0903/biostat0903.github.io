@@ -16,12 +16,14 @@
     <a href="{{ url | relative_url }}">{{ title }}</a>
   </p>
 
+  {% assign author = post.author | default: "" %}
+  {% assign tags = post.tags | default: emptyarray %}
+  {% assign date = post.date | default: "" %}
   {%
     include post-info.html
-    author=post.author
-    member=post.member
-    date=post.date
-    tags=post.tags
+    author=author
+    tags=tags
+    date=date
   %}
 
   {% assign content = post.content | default: "" %}

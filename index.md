@@ -2,25 +2,28 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Our Lab Slogan
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Welcome to the Yang Lab at [Nanjing Medical University](https://www.njmu.edu.cn/)!
+
+The introduction of Yang Lab.
+.........................................................
+
+Click around to learn more about the lab's research vision and focus!
 
 {%
   include link.html
   type="github"
   icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
+  text="See our open science projects"
+  link="biostat0903"
   style="button"
 %}
 {%
   include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  icon="fas fa-users"
+  text="Join the Team"
+  link="https://gwxy.njmu.edu.cn/"
   style="button"
 %}
 {:.center}
@@ -34,70 +37,62 @@ Spend less time reinventing the wheel, and more time running your lab.
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We use ..............................to improve the ..........................
+We develop ............................. to .........................
+We focus on .........................
 
-{%
-  include link.html
-  link="research"
-  text="See what we've published"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
+[See what we've published &nbsp;→](research)
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/meowwolfcell.jpg"
   link="research"
-  title="Our Research"
+  headline="Our Research"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We also release software to enable reproducible computational biology analyses and workflows.
+All of our software is open source, and we encourage active learning through meaningful code contributions.
+Please cite any software you use!
+.................................
 
-{%
-  include link.html
-  link="tools"
-  text="Browse our tools"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
+[See our resources &nbsp;→](resources)
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/network.png"
   link="resources"
-  title="Our Resources"
-  flip=true
+  headline="Our software"
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are recruiting!
+To see your face in this page, please reach out!
 
-{%
-  include link.html
-  link="team"
-  text="Meet our team"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
+[Meet our team &nbsp;→](team)
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpeg"
   link="team"
-  title="Our Team"
+  headline="Our lab team"
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{%
+  include link.html
+  type="github"
+  icon=""
+  text="Website template"
+  link="wayscience/lab-website-template"
+  style="button"
+%}
+{:.center}

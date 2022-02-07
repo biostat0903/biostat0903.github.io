@@ -68,15 +68,14 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.9)
       thread_safe (~> 0.1)
-    tzinfo-data (1.2021.5)
+    tzinfo-data (1.2021.1)
       tzinfo (>= 1.0.0)
     unicode-display_width (1.7.0)
     wdm (0.1.1)
-    webrick (1.7.0)
 
 PLATFORMS
-  universal-darwin-21
   x64-mingw32
+  x86_64-darwin-19
 
 DEPENDENCIES
   jekyll
@@ -86,7 +85,6 @@ DEPENDENCIES
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
-  webrick (~> 1.7)
 
 BUNDLED WITH
-   2.3.5
+   2.3.6

@@ -2,45 +2,46 @@
 title: Contact
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: How to get in touch with us
 ---
 
 # <i class="fas fa-envelope"></i>Contact
-
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the Department of Biostatistics within the [School of Public Health](https://gwxy.njmu.edu.cn/) in the [Nanjing Medical University](https://www.njmu.edu.cn/).
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="yangsheng@njmu.edu.cn"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="yangsheng@njmu.edu.cn"
   style="button"
 %}
+<!---
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="XXXX"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+86-XXXXXX"
   style="button"
 %}
+-->
 {%
   include link.html
   type="address"
   icon=""
   text="Google Maps"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  tooltip="Our location on Google Maps"
+  link="https://www.google.com/maps/place/%E5%8D%97%E4%BA%AC%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F%E5%AD%A6%E9%99%A2/@31.9367763,118.8721204,14z/data=!4m9!1m2!2m1!1zTmFuamluZyBNZWRpY2FsIFVuaXZlcnNpdHkgSmlhbmduaW5nIENhbXB1cywg5rGf5a6B5Yy65Y2X5Lqs5biC5rGf6IuP55yB5Lit5Zu96ZmE6L-R55qEcHVibGljIGhlYWx0aCBkZXBhcnRtZW50!3m5!1s0x35b591b96534522d:0x257047d8fdf5ad5c!8m2!3d31.937481!4d118.888182!15sCm9OYW5qaW5nIE1lZGljYWwgVW5pdmVyc2l0eSBKaWFuZ25pbmcgQ2FtcHVzLCDmsZ_lroHljLrljZfkuqzluILmsZ_oi4_nnIHkuK3lm73pmYTov5HnmoRwdWJsaWMgaGVhbHRoIGRlcGFydG1lbnSSAQp1bml2ZXJzaXR5"
   style="button"
 %}
 {:.center}
 
 {% include section.html %}
 
+<!---
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
 That St & The Other St  
@@ -63,3 +64,4 @@ Canada
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
+-->

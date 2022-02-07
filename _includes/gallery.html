@@ -22,13 +22,9 @@
       <a
         {% if link %}href="{{ link | relative_url }}"{% endif %}
         class="gallery_item"
-        {% if tooltip %}data-tooltip="{{ tooltip }}"{% endif %}
+        data-tooltip="{{ tooltip }}"
       >
-        <img
-          src="{{ image | relative_url }}"
-          loading="lazy"
-          alt=""
-        />
+        <img src="{{ image | relative_url }}" loading="lazy">
       </a>
     {%- endif -%}
 
