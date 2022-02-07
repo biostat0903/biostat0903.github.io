@@ -1,6 +1,3 @@
-- id: doi:10.3390/cells8101161
-  image: https://www.mdpi.com/cells/cells-08-01161/article_deploy/html/images/cells-08-01161-g001.png
-  
 - id: doi:10.3389/fgene.2021.784775
   image: https://www.frontiersin.org/files/Articles/784775/fgene-12-784775-HTML/image_m/fgene-12-784775-g001.jpg
 
@@ -54,6 +51,3 @@
 
 - id: doi:10.1007/s11033-012-2450-x
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11033-012-2450-x/MediaObjects/11033_2012_2450_Fig4_HTML.gif
-
-- id: doi:10.1016/j.ajhg.2020.03.013
-  image: https://biostat0903.github.io/DBSLMM/flow_chart.png
