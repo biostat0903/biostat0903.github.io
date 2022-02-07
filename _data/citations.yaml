@@ -61,3 +61,43 @@
   - type: source
     link: https://github.com/greenelab/scihub
     text: Analyses source
+- id: doi:10.1016/j.ajhg.2020.03.013
+  title: Accurate and Scalable Construction of Polygenic Scores in Large Biobank Data
+    Sets
+  authors:
+  - Sheng Yang
+  - Xiang Zhou
+  publisher: The American Journal of Human Genetics
+  date: '2020-05-01'
+  link: https://doi.org/ghj9fq
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.7287/peerj.preprints.3100v1
+  - type: manubot
+    link: https://greenelab.github.io/scihub-manuscript/
+  - type: source
+    link: https://github.com/greenelab/scihub-manuscript
+    text: Manuscript source
+  - type: source
+    link: https://github.com/greenelab/scihub
+    text: Analyses source
+- id: doi:10.3390/cells8101161
+  title: An Efficient and Flexible Method for Deconvoluting Bulk RNA-Seq Data with
+    Single-Cell RNA-Seq Data
+  authors:
+  - Xifang Sun
+  - Shiquan Sun
+  - Sheng Yang
+  publisher: Cells
+  date: '2019-09-27'
+  link: https://doi.org/gf9kmm
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.7287/peerj.preprints.3100v1
+  - type: manubot
+    link: https://greenelab.github.io/scihub-manuscript/
+  - type: source
+    link: https://github.com/greenelab/scihub-manuscript
+    text: Manuscript source
