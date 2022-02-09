@@ -275,3 +275,24 @@
   date: '2012-12-29'
   link: https://doi.org/f4rdz2
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11033-012-2450-x/MediaObjects/11033_2012_2450_Fig4_HTML.gif
+- id: doi:10.3390/cells8101161
+  title: An Efficient and Flexible Method for Deconvoluting Bulk RNA-Seq Data with
+    Single-Cell RNA-Seq Data
+  authors:
+  - Xifang Sun
+  - Shiquan Sun
+  - Sheng Yang
+  publisher: Cells
+  date: '2019-09-27'
+  link: https://doi.org/gf9kmm
+  image: https://www.mdpi.com/cells/cells-08-01161/article_deploy/html/images/cells-08-01161-g001.png
+- id: doi:10.1016/j.ajhg.2020.03.013
+  title: Accurate and Scalable Construction of Polygenic Scores in Large Biobank Data
+    Sets
+  authors:
+  - Sheng Yang
+  - Xiang Zhou
+  publisher: The American Journal of Human Genetics
+  date: '2020-05-01'
+  link: https://doi.org/ghj9fq
+  image: https://biostat0903.github.io/DBSLMM/flow_chart.png
