@@ -30,7 +30,7 @@ Click around to learn more about the lab's research vision and focus!
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/nanjing.png" %}
 
 {% include section.html %}
 
