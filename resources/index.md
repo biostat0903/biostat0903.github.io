@@ -1,7 +1,7 @@
 ---
 title: Resources
 nav:
-  order: 3
+  order: 2
   tooltip: Software and data
 ---
 

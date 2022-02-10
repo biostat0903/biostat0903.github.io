@@ -1,7 +1,7 @@
 ---
-title: People
+title: Team
 nav:
-  order: 4
+  order: 3
   tooltip: About our team
 ---
 
