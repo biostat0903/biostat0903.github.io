@@ -1,14 +1,14 @@
+- name: PGS-Server
+  group: featured
+  image: images/flow_chart.png
+  link: https://github.com/biostat0903/PGS-Server
+  description: A web server fits the existing methods of PGS construction based on summary statistics, including CT (bigsnpr), DBSLMM, lassosum, LDpred2-auto, LDpred2-inf, LDpred2-sp, LDpred2-nosp, NPS, PRSCS, SbayesR, SBLUP and SCT
+
 - name: DBSLMM
   group: featured
   image: https://biostat0903.github.io/DBSLMM/flow_chart.png
   link: https://github.com/biostat0903/DBSLMM
   description: A software implements the Deterministic Bayesian Sparse Linear Mixed Model (DBSLMM) to construction Polygenic Genetics Score (PGS)
-
-- name: PGS-Server
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/biostat0903/PGS-Server
-  description: A web server fits the existing methods of PGS construction based on summary statistics, including CT (bigsnpr), DBSLMM, lassosum, LDpred2-auto, LDpred2-inf, LDpred2-sp, LDpred2-nosp, NPS, PRSCS, SbayesR, SBLUP and SCT
 
 - name: PEA
   group: featured

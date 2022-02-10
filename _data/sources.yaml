@@ -1,3 +1,6 @@
+- id: doi:10.3389/fimmu.2021.788431
+  image: https://www.frontiersin.org/files/Articles/788431/fimmu-12-788431-HTML/image_m/fimmu-12-788431-g001.jpg
+
 - id: doi:10.3389/fgene.2021.784775
   image: https://www.frontiersin.org/files/Articles/784775/fgene-12-784775-HTML/image_m/fgene-12-784775-g001.jpg
 
@@ -57,6 +60,3 @@
   
 - id: doi:10.1016/j.ajhg.2020.03.013
   image: https://biostat0903.github.io/DBSLMM/flow_chart.png
-
-- id: doi:10.3389/fimmu.2021.788431
-  image: https://www.frontiersin.org/files/Articles/788431/fimmu-12-788431-HTML/image_m/fimmu-12-788431-g001.jpg
