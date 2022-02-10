@@ -1,6 +1,6 @@
 ---
 name: Shiyue Tao
-image: images/team/shiyuetao.jpg
+image: images/team/shiyuetao.png
 role: undergrad
 aliases:
   - SY. Tao
