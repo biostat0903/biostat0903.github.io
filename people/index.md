@@ -29,20 +29,22 @@ nav:
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
+{% include section.html background="images/nanjing.png" dark=true%}
 
 Come join us!
 
-{% include section.html background="images/nanjing.png" dark=true%}
+{%
+  include link.html
+  icon="fas fa-users"
+  text="Join the Team"
+  link="join/"
+  style="button"
+%}
 {:.center}
 
 {% include section.html %}
 
+<!---
 ## Funding
 
 Our work is made possible by funding from several organizations.
@@ -76,3 +78,4 @@ Our work is made possible by funding from several organizations.
   link6="https://nasa.gov/"
   tooltip6="Cool Initiative"
 %}
+-->
