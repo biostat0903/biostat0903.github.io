@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Our Lab Slogan
+# Yang Lab
 
 Welcome to the Yang Lab at [Nanjing Medical University](https://www.njmu.edu.cn/)!
 
