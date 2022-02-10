@@ -31,12 +31,6 @@ nav:
 
 
 <!---
-{% include section.html background="images/nanjing.png" dark=true%}
-
-Come join us!
-
-{% include section.html %}
-
 ## Funding
 
 Our work is made possible by funding from several organizations.
