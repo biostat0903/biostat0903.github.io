@@ -33,15 +33,6 @@ nav:
 
 Come join us!
 
-{%
-  include link.html
-  icon="fas fa-users"
-  text="Join the Team"
-  link="join/"
-  style="button"
-%}
-{:.center}
-
 {% include section.html %}
 
 <!---
