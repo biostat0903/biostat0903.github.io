@@ -3,13 +3,12 @@ name: Sheng Yang
 image: images/member.jpg
 role: pi
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+  - S.Yang
 links:
-  orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  home-page: https://biostat0903.github.io/
+  email: yangsheng@njmu.edu.cn
+  github: biostat0903
+  google-scholar:VVLc4cIAAAAJ
 ---
 
 Sheng Yang is the Principal Investigator (PI) of the Yang Lab.
