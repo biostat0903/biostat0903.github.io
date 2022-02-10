@@ -39,7 +39,7 @@ Click around to learn more about the lab's research vision and focus!
 
   We are interested in Statistical genetics and Medical genomics and focus to define the genetic and non-genetic factors of complex diseases, such as heart failure and breast cancer and explore the potential biological mechanism.
 
-[See what we've published &nbsp;→](publication)
+[See our publications &nbsp;→](publication)
 {:.center}
 {% endcapture %}
 
