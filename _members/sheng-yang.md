@@ -1,7 +1,6 @@
 ---
-name: Upton O. Goode
+name: Sheng Yang
 image: images/member.jpg
-description: Bone Investigator
 role: pi
 aliases:
   - U. Goode
@@ -13,6 +12,6 @@ links:
   twitter: uptonogoode
 ---
 
-Upton is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Sheng Yang is the Principal Investigator (PI) of the Yang Lab.
+He is an Assistant Professor in the Department of Biostatistics in the [School of Public Health](https://gwxy.njmu.edu.cn/) at [Nanjing Medical University](https://www.njmu.edu.cn/).
+
