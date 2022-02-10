@@ -1,7 +1,7 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 4
   tooltip: How to get in touch with us
 ---
 
