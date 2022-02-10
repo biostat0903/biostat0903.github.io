@@ -11,4 +11,4 @@ links:
 ---
 
 
-Shiyue Tao is an undergraduated student in the Department of Biostatistics in the [School of Public Health](https://gwxy.njmu.edu.cn/) at [Nanjing Medical University](https://www.njmu.edu.cn/).
+Shiyue Tao is an undergraduate student in the Department of Biostatistics in the [School of Public Health](https://gwxy.njmu.edu.cn/) at [Nanjing Medical University](https://www.njmu.edu.cn/).
