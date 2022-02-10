@@ -37,6 +37,8 @@ Click around to learn more about the lab's research vision and focus!
 
 {% capture text %}
 
+We are interested in Statistical genetics and Medical genomics and focus to define the genetic and non-genetic factors of complex diseases, such as heart failure and breast cancer and explore the potential biological mechanism.
+
 [See what we've published &nbsp;→](publication)
 {:.center}
 {% endcapture %}
@@ -51,6 +53,8 @@ Click around to learn more about the lab's research vision and focus!
 
 {% capture text %}
 
+We have developed a number of computational tools to analyze huge human genetics and genomics data. 
+
 [See our resources &nbsp;→](resources)
 {:.center}
 {% endcapture %}
@@ -64,6 +68,8 @@ Click around to learn more about the lab's research vision and focus!
 %}
 
 {% capture text %}
+
+Here are the introduction of our lab members. We will recruit in the near future, feel free to contact us!
 
 [Meet our lab members &nbsp;→](people)
 {:.center}
