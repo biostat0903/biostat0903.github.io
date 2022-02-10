@@ -47,7 +47,7 @@ We focus on .........................
 
 {%
   include feature.html
-  image="images/meowwolfcell.jpg"
+  image="images/dna.jpg"
   link="research"
   headline="Our Research"
   text=text
@@ -65,7 +65,7 @@ Please cite any software you use!
 
 {%
   include feature.html
-  image="images/network.png"
+  image="images/software.png"
   link="resources"
   headline="Our software"
   text=text
@@ -81,7 +81,7 @@ To see your face in this page, please reach out!
 
 {%
   include feature.html
-  image="images/team.jpeg"
+  image="images/bee.jpeg"
   link="team"
   headline="Our lab team"
   text=text
