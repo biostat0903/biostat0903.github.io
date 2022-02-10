@@ -6,7 +6,7 @@ nav:
 ---
 
 # <i class="fas fa-envelope"></i>Contact
-Our lab is part of the Department of Biostatistics within the [School of Public Health](https://gwxy.njmu.edu.cn/) in the [Nanjing Medical University](https://www.njmu.edu.cn/).
+Our lab is part of the Department of Biostatistics in the [School of Public Health](https://gwxy.njmu.edu.cn/) at [Nanjing Medical University](https://www.njmu.edu.cn/).
 
 {%
   include link.html

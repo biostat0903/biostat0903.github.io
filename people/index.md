@@ -32,12 +32,17 @@ We define success individually for each team member, and we challenge each other
   component="portrait"
   filters="role: programmer"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad"
+%}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html background="images/nanjing.png" dark=true%}
 
 Come join us!
-We encourage all to apply.
 
 {%
   include link.html
