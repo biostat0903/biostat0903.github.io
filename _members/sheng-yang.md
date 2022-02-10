@@ -8,7 +8,6 @@ links:
   home-page: https://biostat0903.github.io/
   email: yangsheng@njmu.edu.cn
   github: biostat0903
-  google-scholar:VVLc4cIAAAAJ
 ---
 
 Sheng Yang is the Principal Investigator (PI) of the Yang Lab.
