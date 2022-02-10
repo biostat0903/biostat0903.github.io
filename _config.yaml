@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: Yang Lab
 description: Biostatistics and data science
-logo: images/logo.svg
+logo: images/logo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
