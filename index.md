@@ -6,8 +6,7 @@ title: Home
 
 Welcome to the Yang Lab at [Nanjing Medical University](https://www.njmu.edu.cn/)!
 
-The introduction of Yang Lab.
-.........................................................
+
 
 Click around to learn more about the lab's research vision and focus!
 
@@ -37,11 +36,8 @@ Click around to learn more about the lab's research vision and focus!
 # Highlights
 
 {% capture text %}
-We use ..............................to improve the ..........................
-We develop ............................. to .........................
-We focus on .........................
 
-[See what we've published &nbsp;→](research)
+[See what we've published &nbsp;→](publication)
 {:.center}
 {% endcapture %}
 
@@ -54,10 +50,6 @@ We focus on .........................
 %}
 
 {% capture text %}
-We also release software to enable reproducible computational biology analyses and workflows.
-All of our software is open source, and we encourage active learning through meaningful code contributions.
-Please cite any software you use!
-.................................
 
 [See our resources &nbsp;→](resources)
 {:.center}
@@ -72,10 +64,8 @@ Please cite any software you use!
 %}
 
 {% capture text %}
-We are recruiting!
-To see your face in this page, please reach out!
 
-[Meet our team &nbsp;→](people)
+[Meet our lab members &nbsp;→](people)
 {:.center}
 {% endcapture %}
 
