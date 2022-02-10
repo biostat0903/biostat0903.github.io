@@ -1,20 +1,23 @@
-- name: Pycytominer
+- name: DBSLMM
+  group: featured
+  image: https://biostat0903.github.io/DBSLMM/flow_chart.png
+  link: https://github.com/biostat0903/DBSLMM
+  description: A software implements the Deterministic Bayesian Sparse Linear Mixed Model (DBSLMM) to construction Polygenic Genetics Score (PGS)
+
+- name: PGS-Server
   group: featured
   image: images/photo.jpg
-  link: https://github.com/cytomining/pycytominer
-  description: Python package to process image-based profiling readouts
-  repo: cytomining/pycytominer
+  link: https://github.com/biostat0903/PGS-Server
+  description: A web server fits the existing methods of PGS construction based on summary statistics, including CT (bigsnpr), DBSLMM, lassosum, LDpred2-auto, LDpred2-inf, LDpred2-sp, LDpred2-nosp, NPS, PRSCS, SbayesR, SBLUP and SCT
 
-- name: BioBombe
+- name: PEA
   group: featured
-  image: https://raw.githubusercontent.com/greenelab/BioBombe/master/docs/favicon-192x192.png
-  link: https://greenelab.github.io/BioBombe/
-  description: Maximize biological representations with unsupervised ensembles across different latent space dimensionalities
-  repo: greenelab/biobombe
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12863-019-0739-7/MediaObjects/12863_2019_739_Fig1_HTML.png?as=webp
+  link: https://github.com/biostat0903/RNAseq-Data-Analysis
+  description: an method for testing the gene-pathway interaction (GPI)
 
-- name: LINCS Cell Painting
-  group: more
-  image: https://raw.githubusercontent.com/broadinstitute/lincs-cell-painting/master/profiles/media/cytominer_workflow.png
-  link: https://github.com/broadinstitute/lincs-cell-painting
-  description: Version-controlled Cell Painting profile data from >10,000 compound perturbations
-  repo: broadinstitute/lincs-cell-painting
+- name: isoVCT
+  group: featured
+  image: https://dfzljdn9uc3pi.cloudfront.net/2017/3797/1/fig-3-2x.jpg
+  link: https://github.com/biostat0903/RNAseq-Data-Analysis
+  description: an algorithm for identifying the DE genes for next generation seqencing (NGS) data
