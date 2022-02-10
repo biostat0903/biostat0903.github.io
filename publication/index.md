@@ -1,31 +1,13 @@
 ---
-title: Research
+title: Publication
 nav:
   order: 2
   tooltip: Published works
 ---
 
-# <i class="fas fa-microscope"></i>Research
+# <i class="fas fa-microscope"></i>Publication
 
-We focus on ................................
-We develop ...................... 
-
-We are interested in ....................:
-
-- Methods for .........................
-- ........................
-
-
-## How we do science
-
-..............................................
-
-.................................................
-
-We pursue ..............................................
-
-
-See below for a selection of our recent papers.
+See below for a selection of our recent publications.
 
 {% include section.html %}
 
