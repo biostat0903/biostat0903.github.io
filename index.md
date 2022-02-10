@@ -73,7 +73,7 @@ Click around to learn more about the lab's research vision and focus!
   include feature.html
   image="images/bee.jpg"
   link="team"
-  headline="Our lab team"
+  headline="Our lab members"
   text=text
 %}
 
