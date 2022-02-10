@@ -11,10 +11,8 @@ baseurl: ""
 # site social media and other links
 links:
   email: yangsheng@njmu.edu.cn
-  google-scholar: iDKZaA4AAAAJ
+  google-scholar: VVLc4cIAAAAJ
   github: biostat0903
-  twitter: gwayscience
-  linkedin: gregorypway
 
 # automatic citations
 auto-cite:
