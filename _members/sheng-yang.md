@@ -1,6 +1,6 @@
 ---
 name: Sheng Yang
-image: images/member.jpg
+image: images/team/shengyang.jpg
 role: pi
 aliases:
   - S.Yang
