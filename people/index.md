@@ -1,8 +1,8 @@
 ---
-title: Team
+title: People
 nav:
-  order: 3
-  tooltip: About our team
+  order: 4
+  tooltip: About us
 ---
 
 # <i class="fas fa-users"></i>Team
