@@ -7,10 +7,10 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-We welcome, embrace, and are strengthened by diverse views and experiences of all team members.
-Our lab is comprised of compassionate scientists who foster a welcoming, inclusive, and healthy environment.
-We define success individually for each team member, and we challenge each other to develop and pursue individual passions.
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 {% include section.html %}
 
@@ -32,30 +32,30 @@ We define success individually for each team member, and we challenge each other
   component="portrait"
   filters="role: programmer"
 %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: undergrad"
-%}
 {:.center}
 
-{% include section.html background="images/nanjing.png" dark=true%}
+{% include section.html background="images/banner.jpg" dark=true%}
 
-Come join us!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{%
-  include link.html
-  icon="fas fa-users"
-  text="Join the Team"
-  link="join/"
-  style="button"
-%}
+{% include section.html %}
+
+## Join
+
+#### Post Dogtoral Researcher
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+- 3+ (dog) years experience managing bone portfolios
+- Strong desire to learn tricks and go on walkies
+- Aptitude to sit and stay
+
+{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 {% include section.html %}
 
-<!---
 ## Funding
 
 Our work is made possible by funding from several organizations.
@@ -89,4 +89,3 @@ Our work is made possible by funding from several organizations.
   link6="https://nasa.gov/"
   tooltip6="Cool Initiative"
 %}
--->

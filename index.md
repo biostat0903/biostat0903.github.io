@@ -75,7 +75,7 @@ Please cite any software you use!
 We are recruiting!
 To see your face in this page, please reach out!
 
-[Meet our team &nbsp;→](team)
+[Meet our team &nbsp;→](people)
 {:.center}
 {% endcapture %}
 
