@@ -1,16 +1,15 @@
 ### basic settings
 
 # site properties and page defaults
-title: ShengYang Lab
-description: Biomedical data science
-logo: images/logo.svg
+title: Yang Lab
+description: Biostatistical data science
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
 
 # site social media and other links
 links:
-  email: gregory.way@gmail.com
+  email: yangsheng@njmu.edu.cn
   google-scholar: iDKZaA4AAAAJ
   github: biostat0903
   twitter: gwayscience
