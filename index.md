@@ -69,7 +69,7 @@ Click around to learn more about the lab's research vision and focus!
 
 {% capture text %}
 
-  Here are the introduction of our lab members. We will recruit in the near future, feel free to contact us!
+  Here is the introduction of our lab members. We will recruit in the near future, feel free to contact us!
 
 [Meet our lab members &nbsp;→](people)
 {:.center}
