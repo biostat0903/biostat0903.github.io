@@ -65,7 +65,7 @@ Please cite any software you use!
 
 {%
   include feature.html
-  image="images/software.png"
+  image="images/software.jpg"
   link="resources"
   headline="Our software"
   text=text
@@ -81,7 +81,7 @@ To see your face in this page, please reach out!
 
 {%
   include feature.html
-  image="images/bee.jpeg"
+  image="images/bee.jpg"
   link="team"
   headline="Our lab team"
   text=text
