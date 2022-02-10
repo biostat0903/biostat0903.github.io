@@ -5,7 +5,6 @@ role: pi
 aliases:
   - S. Yang
 links:
-  home-page: https://biostat0903.github.io/
   email: yangsheng@njmu.edu.cn
   github: biostat0903
   google-scholar:VVLc4cIAAAAJ
