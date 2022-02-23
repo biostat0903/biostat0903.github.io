@@ -314,3 +314,13 @@
   date: '2020-05-01'
   link: https://doi.org/ghj9fq
   image: https://biostat0903.github.io/DBSLMM/flow_chart.png
+- id: doi:10.1093/bib/bbac039
+  title: 'PGS-server: accuracy, robustness and transferability of polygenic score
+    methods for biobank scale studies'
+  authors:
+  - Sheng Yang
+  - Xiang Zhou
+  publisher: Briefings in Bioinformatics
+  date: '2022-02-22'
+  link: https://doi.org/gpjcxs
+  image: images/flow_chart.png
